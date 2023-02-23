@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "descricao": "Escola",
+        "curso": "Ensino médio",
+        "escola": "Paulo Mendes Silva",
+        "status": "Concluído em 2010"
+    },
+    {
+        "id": "2",
+        "descricao": "Faculdade 1",
+        "curso": "Fisioterapia",
+        "escola": "UNIP",
+        "status": "Graduação trancada no 7° semestre" 
+    },
+    {
+        "id": "2",
+        "descricao": "Faculdade 2",
+        "curso": "Análise e Desenvolvimento de Sistemas",
+        "escola": "FIAP",
+        "status": "Em andamento - Previsão de conclusão 12/2023" 
+    }
+]
